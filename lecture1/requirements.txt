@@ -1,0 +1,3 @@
+micrograd
+numpy
+matplotlib
